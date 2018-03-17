@@ -1,3 +1,8 @@
+@font-face{
+	font-family: 'Lush';
+	src: url('Lush.tff') format('truetype');
+}
+
 body {
 
 	background-color: #1d2a56;
@@ -6,5 +11,7 @@ body {
 header {
 	color: black;
     margin-left: 20px;
-	font-family: "Palatino Linotype", Palatino, Serif;
+	font-family: 'FontName', Fallback, Serif;
+	font-size: 45px;
+	text-align: center;
 }
