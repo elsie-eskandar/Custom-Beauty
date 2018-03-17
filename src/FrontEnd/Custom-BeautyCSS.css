@@ -1,6 +1,6 @@
 @font-face{
 	font-family: 'Lush';
-	src: url('Lush.tff') format('truetype');
+	src: url('/src/FrontEnd/Lush.tff') format('truetype');
 }
 
 body {
@@ -10,8 +10,7 @@ body {
 
 header {
 	color: black;
-    margin-left: 20px;
-	font-family: 'FontName', Fallback, Serif;
+	font-family: 'Lush', Serif;
 	font-size: 45px;
 	text-align: center;
 }
