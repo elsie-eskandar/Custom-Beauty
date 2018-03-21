@@ -1,16 +1,15 @@
 @font-face{
-	font-family: 'Lush';
+	font-family: "Lush";
 	src: url('/src/FrontEnd/Lush.tff') format('truetype');
 }
 
 body {
-
 	background-color: #1d2a56;
 }
 
 header {
 	color: black;
-	font-family: 'Lush', Serif;
+	font-family: 'Helvetica', Serif;
 	font-size: 45px;
 	text-align: center;
 }
