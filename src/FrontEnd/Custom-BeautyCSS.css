@@ -9,7 +9,7 @@ body {
 
 header {
 	color: black;
-	font-family: 'Palatino Linotype', Serif;
+	font-family: 'Palatino Linotype', Palatino, Serif;
 	font-size: 45px;
 	text-align: center;
 }
